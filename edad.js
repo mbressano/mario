@@ -14,4 +14,5 @@ if (Number(edad) == edad) {
 else {
   //MUESTRA UN MENSAJE
   alert("Introduce un numero válido");
+  //Modificacion
 }
