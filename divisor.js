@@ -5,5 +5,5 @@ while (div <= a) {
     console.log("el divisor es " + div);
   }
   div++;
-  //
+  //esto es una prueba de modificacion
 }
