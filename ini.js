@@ -74,6 +74,6 @@ function multiplicar() {
     console.log("1 x", i, "=", 1 * i);
   }
 }
-
+//prueba
 
 multiplicar();
